@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Inspiration
+
+Ever had an idea for an app or a complex system, but didn't know where to start? So did we, and that's why we've built PAiM (pronounced PAM). PAiM is your AI-powered technical project manager, capable of designing an entire system from a - z using a short description of your idea.
+
+## What it does
+
+PAiM designs systems from both a product and engineering standpoint so you don't have to worry about planning for an idea ever again. PAiM takes information about your idea, a brief description, a potential users' description, your preferred tech stack, and your timeline for completing it, then from that small context, it generates a notion page for you with sections discussing functionality and use cases, tech stack, architecture description and diagram, and milestones for your project.
+
+## How we built it
+
+We built it using an extremely responsive and customizable nextjs app on the frontend, a simple backend and orchestrator service relying on Google Gemini's and Notion's APIs.
+
+## Challenges we ran into
+
+Many of the challenges we ran into were related to prompt engineering, text and code formatting.
+
+## What's next for PAiM
+
+Many many more features to come.
+
+Link to backend: https://github.com/Omar-Ahmed-UW/PAiM-backend
 
 ## Getting Started
 
@@ -28,8 +48,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+-   [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+-   [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
