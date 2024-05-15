@@ -1,0 +1,92 @@
+{
+    "Web Services": [
+        { "value": "rest", "label": "REST" },
+        { "value": "graphql", "label": "GraphQL" },
+        { "value": "soap", "label": "SOAP" }
+    ],
+    "Core Technologies": [
+        { "value": "html", "label": "HTML" },
+        { "value": "css", "label": "CSS" },
+        { "value": "javascript", "label": "JavaScript" }
+    ],
+    "Programming Languages": [
+        { "value": "python", "label": "Python" },
+        { "value": "java", "label": "Java" },
+        { "value": "csharp", "label": "C#" },
+        { "value": "ruby", "label": "Ruby" },
+        { "value": "php", "label": "PHP" },
+        { "value": "go", "label": "Go" },
+        { "value": "rust", "label": "Rust" }
+    ],
+    "Distributed Systems": [
+        { "value": "kafka", "label": "Apache Kafka" },
+        { "value": "hadoop", "label": "Apache Hadoop" },
+        { "value": "spark", "label": "Apache Spark" },
+        { "value": "zookeeper", "label": "Apache Zookeeper" }
+    ],
+    "Cloud Systems": [
+        { "value": "aws", "label": "AWS" },
+        { "value": "azure", "label": "Azure" },
+        { "value": "gcp", "label": "Google Cloud Platform" },
+        { "value": "ibm-cloud", "label": "IBM Cloud" },
+        { "value": "oracle-cloud", "label": "Oracle Cloud" }
+    ],
+    "Databases": [
+        { "value": "mysql", "label": "MySQL" },
+        { "value": "postgresql", "label": "PostgreSQL" },
+        { "value": "mongodb", "label": "MongoDB" },
+        { "value": "redis", "label": "Redis" },
+        { "value": "cassandra", "label": "Cassandra" },
+        { "value": "neo4j", "label": "Neo4j" },
+        { "value": "dynamodb", "label": "DynamoDB" },
+        { "value": "couchdb", "label": "CouchDB" }
+    ],
+    "DevOps Tools": [
+        { "value": "docker", "label": "Docker" },
+        { "value": "kubernetes", "label": "Kubernetes" },
+        { "value": "jenkins", "label": "Jenkins" },
+        { "value": "ansible", "label": "Ansible" },
+        { "value": "terraform", "label": "Terraform" }
+    ],
+    "Frontend Frameworks": [
+        { "value": "react", "label": "React" },
+        { "value": "vue", "label": "Vue" },
+        { "value": "angular", "label": "Angular" },
+        { "value": "svelte", "label": "Svelte" },
+        { "value": "ember", "label": "Ember" }
+    ],
+    "Backend Frameworks": [
+        { "value": "spring-boot", "label": "Spring Boot" },
+        { "value": "django", "label": "Django" },
+        { "value": "express", "label": "Express.js" },
+        { "value": "flask", "label": "Flask" },
+        { "value": "laravel", "label": "Laravel" },
+        { "value": "rails", "label": "Ruby on Rails" }
+    ],
+    "Machine Learning": [
+        { "value": "tensorflow", "label": "TensorFlow" },
+        { "value": "pytorch", "label": "PyTorch" },
+        { "value": "scikit-learn", "label": "Scikit-learn" },
+        { "value": "keras", "label": "Keras" },
+        { "value": "xgboost", "label": "XGBoost" }
+    ],
+    "CI/CD Tools": [
+        { "value": "circleci", "label": "CircleCI" },
+        { "value": "travisci", "label": "Travis CI" },
+        { "value": "gitlab-ci", "label": "GitLab CI" },
+        { "value": "github-actions", "label": "GitHub Actions" },
+        { "value": "bamboo", "label": "Bamboo" }
+    ],
+    "Monitoring Tools": [
+        { "value": "prometheus", "label": "Prometheus" },
+        { "value": "grafana", "label": "Grafana" },
+        { "value": "newrelic", "label": "New Relic" },
+        { "value": "datadog", "label": "Datadog" },
+        { "value": "zabbix", "label": "Zabbix" }
+    ],
+    "Version Control": [
+        { "value": "git", "label": "Git" },
+        { "value": "svn", "label": "SVN" },
+        { "value": "mercurial", "label": "Mercurial" }
+    ]
+}
